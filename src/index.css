@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@theme {
+  /* !color */
+  --color-green: #4caf4f;
+  --color-bg: #f5f7fa;
+  --color-text-main: #4d4d4d;
+  --color-footer: #263238;
+  --color-footer-text: #f5f7fa;
+  --color-link: ##3b464c;
+
+  /* !font */
+  --font-inter: "Inter", sans-serif;
+}
